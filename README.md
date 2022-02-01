@@ -30,6 +30,11 @@
         <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
        </p>
- <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+<div align=center>
+      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
         <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetYal&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
       </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=AhmetYal&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      </a>
+    </div>
