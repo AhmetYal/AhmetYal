@@ -55,5 +55,6 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=AhmetYal&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </p>
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AhmetYal)](https://github.com/anuraghazra/github-readme-stats)
+(https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmetYal)](https://github.com/anuraghazra/github-readme-stats)
 
