@@ -5,7 +5,8 @@
 - 💬 I'm currently programming with React.js
 - 🌱 I’m currently learning .Net/MVC
 - 📫 Reach me at **a.yalcinkaya0@gmail.com**
-
+- 📝 My Latest Blog Post in Medium
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@a.yalcinkaya0/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@a.yalcinkaya0/0" alt="Recent Article 0"></a>
 
 
 
@@ -40,8 +41,7 @@
 <a href="https://discord.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
 <a href="https://slack.com/intl/en-tr/" target="_blank"> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a>
        </p>
-       - 📝 My Latest Blog Post in Medium
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@a.yalcinkaya0/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@a.yalcinkaya0/0" alt="Recent Article 0"></a>
+     
 <p align=center>
     <div align=center>
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
