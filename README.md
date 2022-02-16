@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning .Net/MVC
 - 📫 Reach me at **a.yalcinkaya0@gmail.com**
 - 📝 My Latest Blog Post in Medium
+
+https://my-portfolio-ahmet.netlify.app/
+
 <br>
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@a.yalcinkaya0/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@a.yalcinkaya0/1" alt="Recent Article 0"></a>
 <br><br>
