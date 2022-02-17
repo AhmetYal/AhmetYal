@@ -23,9 +23,6 @@
 <br />
 https://my-portfolio-ahmet.netlify.app/
 <br />
-<br />
-  
-
 
 [linkedin]: https://www.linkedin.com/in/ahmet-yal%C3%A7%C4%B1nkaya/
 [stackoverflow]: https://stackoverflow.com/users/17779882/ahmet-yalcinkaya
