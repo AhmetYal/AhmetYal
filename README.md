@@ -10,7 +10,8 @@
 https://my-portfolio-ahmet.netlify.app/
 
 <br>
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@a.yalcinkaya0/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@a.yalcinkaya0/1" alt="Recent Article 0"></a>
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=@a.yalcinkaya0)](https://medium.com/@a.yalcinkaya0)
+
 <br><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmetYal" alt="AhmetYal" /></a> </p>
