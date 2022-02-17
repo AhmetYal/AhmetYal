@@ -10,7 +10,7 @@
 https://my-portfolio-ahmet.netlify.app/
 
 <br>
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=a.yalcinkaya0)](https://medium.com/@a.yalcinkaya0)
+
 
 <br><br>
 
