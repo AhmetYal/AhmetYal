@@ -17,14 +17,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="AhmetYal| LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+<p align="left">
+<a href=" https://www.linkedin.com/in/ahmet-yal%C3%A7%C4%B1nkaya/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="rumeysayurtseven" height="30" width="30" /></a>
+</p>
 
 <br />
 <br />
 https://my-portfolio-ahmet.netlify.app/
 <br />
 
-[linkedin]: https://www.linkedin.com/in/ahmet-yal%C3%A7%C4%B1nkaya/
+
 
 
 <h3 align="left">Languages:</h3>
