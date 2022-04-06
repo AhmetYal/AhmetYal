@@ -5,7 +5,7 @@
 - 💬 I'm currently programming with React.js
 - 🌱 I’m currently learning .Net/MVC
 - 📫 Reach me at **a.yalcinkaya0@gmail.com**
-- 📝 My Latest Blog Post in Medium
+
 
 
 <br>
